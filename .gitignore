@@ -1,0 +1,10 @@
+
+Game Skripsi/Library/* 
+Game Skripsi/Logs/* 
+Game Skripsi/Temp/* 
+Game Skripsi/.vs/* 
+Game Skripsi/obj/* 
+ 
+Game Skripsi/.vsconfig
+Game Skripsi/*.sln 
+Game Skripsi/*.csproj 
